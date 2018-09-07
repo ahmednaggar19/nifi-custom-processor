@@ -1,3 +1,7 @@
+# Intellij IDE Project Folder
+.idea/
+*.iml
+*target/
 # Compiled class file
 *.class
 
